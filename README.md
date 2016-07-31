@@ -25,7 +25,7 @@ $ pip install python-instagram
 ### Usage
 
 ```sh
-$ python iblock.py
+$ python starthack.py
 $Enter user id >>>509823
 fetching...
 
