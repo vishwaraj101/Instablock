@@ -38,6 +38,10 @@ fetching...
 
 ###Demo:
 * https://www.youtube.com/watch?v=0ZUeQ_fG_BA *
+* 
+
+###Blog Post:
+* https://www.youtube.com/watch?v=0ZUeQ_fG_BA *
 *** https://vishwarajbhattrai.wordpress.com/2016/07/13/hacking-instagram-apis/ ***
 
 
