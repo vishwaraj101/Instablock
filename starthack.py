@@ -3,7 +3,7 @@ print """ _ _|               |           |      |               |
    |   |   | \__ \  |    (   |  |   |  |  (   |  (       <  
  ___| _|  _| ____/ \__| \__,_| _.__/  _| \___/  \___| _|\_\ 
                                                             
-[+]by c0mrade                                                            """                                                           
+[+]coded by Vishwaraj Bhattrai -@vishwaraj101                                                            """                                                           
  
 
 id=input("user_id>>>> ")
