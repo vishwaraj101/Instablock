@@ -1,6 +1,6 @@
 # Instablock
 Simple tool to check weak /api/enpoints of instagram affected by block feature
-This code was the part of my proof of concept reported to instagram security team by which any blocked user can call api with his access_token to see victim comments,likes,photos, etc now it has been patched by team but still can be useful in basic recon.
+This code was the part of my proof of concept reported to instagram security team by which any blocked user can call api with his access_token to see victim comments,likes,photos, etc now it has been patched by team .
 
 
 ### Version
