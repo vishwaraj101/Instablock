@@ -6,13 +6,13 @@ This code was the part of my proof of concept reported to instagram security tea
 ### Version
 1.0
 
-###Parts 
+### Parts 
 It consist of 2 scripts
 * A php script to fetch userid 
 * A python script to fetch the likes,photos,comments
 
-###Before using 
-####Install instagram api 
+### Before using 
+#### Install instagram api 
 ```sh
 $ pip install python-instagram
 ```
@@ -36,30 +36,12 @@ fetching...
 * InstagramAPI
 
 
-###Demo: https://www.youtube.com/watch?v=0ZUeQ_fG_BA 
+### Demo: 
+https://www.youtube.com/watch?v=0ZUeQ_fG_BA 
 
-
-###Blog Post: https://vishwarajbhattrai.wordpress.com/2016/07/13/hacking-instagram-apis/
-
-
-### Development
-
-Want to contribute? Great!
-
-Feel free to use or edit the code
-
-
-
-License
-----
-
-MIT
-
-
-**Free Software, Hell Yeah!**
-
-
+### Blog Post 
+https://vishwarajbhattrai.wordpress.com/2016/07/13/hacking-instagram-apis/
 
 ### Note :
-####This tool is just built for security test or consistency purpose don't misuse it author  will not be responsible for your actions .
+#### This tool is just built for security test or consistency purpose don't misuse it author  will not be responsible for your actions .
   
