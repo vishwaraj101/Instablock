@@ -25,7 +25,7 @@ $ pip install python-instagram
 ### Usage
 
 ```sh
-$ python starthack.py
+$ python starscan.py
 $Enter user id >>>509823
 fetching...
 
